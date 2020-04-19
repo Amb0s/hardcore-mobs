@@ -1,4 +1,4 @@
-package ambos.example.mixin;
+package ambos.hardcoremobs.mixin;
 
 import net.minecraft.entity.mob.CreeperEntity;
 import org.spongepowered.asm.mixin.Mixin;

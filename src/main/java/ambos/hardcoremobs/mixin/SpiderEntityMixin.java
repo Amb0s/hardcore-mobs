@@ -1,4 +1,4 @@
-package ambos.example.mixin;
+package ambos.hardcoremobs.mixin;
 
 import net.minecraft.entity.EntityType;
 import net.minecraft.entity.attribute.EntityAttributes;
