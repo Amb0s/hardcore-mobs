@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "ambos.example.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+    "CreeperEntityMixin",
+    "SpiderEntityMixin",
+    "CaveSpiderEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
